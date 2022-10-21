@@ -33,6 +33,10 @@ Complete this contract with following specifications for each function
 
     -   This function is only callable by owner.
     -   It should transfer the entire amount in contract to the owner.
+    
+-   cashRegister
+
+    -   This should return purchase details, buyer, item they bought and number of units in the same order. It can return a struct you are using to store purchase information.
 
 ## Evaluation
 
